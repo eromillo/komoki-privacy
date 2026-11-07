@@ -4,6 +4,8 @@ Sitio legal estático y público de KOMOKI. Contiene la política `index.html` y
 
 URL estable: `https://eromillo.github.io/komoki-privacy/`.
 
+`invitacion.html` e `invitacion.js` permiten abrir una invitación en la app mediante el esquema `komoki://invite`. El token queda en el fragmento del enlace; no hay analítica, peticiones externas ni aceptación de acceso desde esta web. Las URLs de tiendas quedan pendientes de verificar las fichas publicadas; no se inventan identificadores de App Store.
+
 URL de solicitudes de eliminación para Play Console: `https://eromillo.github.io/komoki-privacy/eliminar-datos.html`.
 
 Las solicitudes llegan a `sapiproyectos@gmail.com` y requieren atención manual por SAPI. No hay un backend de borrado ni una integración de eliminación con AdMob. Revisar el buzón, determinar los datos bajo control de SAPI, tramitar la petición y explicar las excepciones/plazos aplicables. No prometer el borrado general de datos de Google ni de otros proveedores; facilitar al usuario su canal correspondiente y atender las obligaciones que procedan. Eliminar un identificador publicitario o retirar el consentimiento no equivale a borrar todo el historial. No se afirma eliminación automática en 90 días.
