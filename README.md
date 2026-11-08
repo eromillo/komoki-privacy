@@ -1,6 +1,6 @@
 # Política de privacidad de KOMOKI
 
-Sitio legal estático y público de KOMOKI. Contiene la política `index.html` y la página de solicitudes `eliminar-datos.html`; no incluye código fuente de la aplicación, scripts, analítica ni recursos remotos. Se publica desde la rama `main`, carpeta raíz, mediante GitHub Pages.
+Sitio legal estático y público de KOMOKI. Contiene la política `index.html` y la página de solicitudes `eliminar-datos.html`; no incluye código fuente de la aplicación, analítica ni recursos remotos. Solo la página de invitaciones usa un script local para abrir la app y copiar el código. Se publica desde la rama `main`, carpeta raíz, mediante GitHub Pages.
 
 URL estable: `https://eromillo.github.io/komoki-privacy/`.
 
